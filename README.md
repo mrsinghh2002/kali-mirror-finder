@@ -70,7 +70,7 @@ Reading package lists... Done
 
 
 ## Author
-ssl-checker @[MrSinghh2002](https://github.com/mrsinghh2002) , Released under the MIT License.
+kali-mirror-finder @[MrSinghh2002](https://github.com/mrsinghh2002) , Released under the MIT License.
 
 ---
 
