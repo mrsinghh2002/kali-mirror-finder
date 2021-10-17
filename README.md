@@ -67,3 +67,17 @@ Reading package lists... Done
 
  
 ```
+
+
+## Author
+ssl-checker @[MrSinghh2002](https://github.com/mrsinghh2002) , Released under the MIT License.
+
+---
+
+
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/meshivanshsingh)
+
+ 
